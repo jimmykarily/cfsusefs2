@@ -1,6 +1,7 @@
 ---
-final_name: cf-opensuse42
+final_name: cfsusefs2
 blobstore:
   provider: s3
   options:
-    bucket_name: cf-opensusefs2
+    bucket_name: cfsusefs2
+    region: eu-central-1

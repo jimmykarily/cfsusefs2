@@ -1,0 +1,4 @@
+set -e -x
+
+echo "Copying rootfs"
+cp rootfs/cfsusefs2*.tar.gz ${BOSH_INSTALL_TARGET}/cfsusefs2.tar.gz

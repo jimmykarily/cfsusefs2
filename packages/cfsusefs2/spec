@@ -1,0 +1,4 @@
+---
+name: cfsusefs2
+files:
+- rootfs/cfsusefs2*.tar.gz
