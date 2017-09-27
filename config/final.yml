@@ -4,4 +4,3 @@ blobstore:
   provider: s3
   options:
     bucket_name: cfsusefs2
-    region: eu-central-1
